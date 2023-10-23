@@ -1,0 +1,4 @@
+map_name: world_war_ii_v3_new_objectives
+games:
+- {game_name: World War II v3 1941 New Objectives, file_name: WW2v3-1941newobjectives.xml}
+
